@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 😀Seeking knowledge all the time and learning every day!
+
+
+- :computer:   ReactJS, Node, React Native, Typescript
+- 💬   Ask me about: tech
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Ananias-0080FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonananias/)](https://www.linkedin.com/in/alissonananias/)  
 <!--
 **Alissonjra/alissonjra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
