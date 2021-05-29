@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 😀Seeking knowledge all the time and learning every day!
+### Seeking knowledge all the time and learning every day!
 
 
 - :computer:   ReactJS, Node, React Native, Typescript
